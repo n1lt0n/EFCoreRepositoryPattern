@@ -97,6 +97,7 @@ ClientBin/
 *.dbmdl
 *.[Pp]ublish.xml
 .vs/
+.vscode/
 *.publishsettings
 
 # RIA/Silverlight projects
